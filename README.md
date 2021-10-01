@@ -5,7 +5,10 @@ Kiểm tra tình trạng truyền dẫn file từ 21 nhà máy về Sở TNMT c�
 Sử dụng FTP protocol truy cập vào FTP server của các sở TNMT để kiểm tra tình trạng truyền dẫn của các nhà máy.
 # Tính năng: 
 Giám sát trực tuyến, thông báo trên giao diện khi mất tín hiệu truyền dẫn, cảnh báo qua email.
-
+# Cài đặt
+File cài đặt setup.exe trong thư mục \setup\VietmapEnv App Setup
 # Bảo mật
-Vì lý do bảo mật dữ liệu, các ftp server của các sở và công ty đã được ẩn.
-# Hình ảnh thực tế trong folder /Pictures App
+Vì lý do bảo mật dữ liệu, ip & password của các ftp server đã ẩn.
+# Hình ảnh phần mềm
+/Pictures About App
+
