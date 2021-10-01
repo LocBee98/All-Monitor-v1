@@ -56,7 +56,7 @@ namespace AppMonitor
         public static bool isCheckedAcecook2 = true;
         public static bool isCheckedAcecook3 = true;
 
-        //Acecook check every 15 phút
+        //Acecook check every 15 min
 
         public static bool isCheckedVN1 = true;
         public static bool isCheckedVN2 = true;
@@ -76,7 +76,7 @@ namespace AppMonitor
 
         #endregion
 
-        #region //TAO DIR ROOT FOR ALL STATION
+        #region //CREATE DIR ROOT FOR ALL STATIONS
 
         string rootCuongThinh = "/ximangcuongthinh/LO NGHIEN XI";
         string rootDuyenLinh = "/ximangduyenlinh/LO NGHIEN XI";
