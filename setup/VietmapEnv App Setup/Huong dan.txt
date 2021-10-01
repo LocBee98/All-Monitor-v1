@@ -1,4 +1,10 @@
-Copy folder 
-"txtSetting"
-Into Folder:
-C:\Program Files (x86)\VietmapEnv\Monitor-setup\
+1. If your computer does not have Netframwork 4.7.2, please install it first.
+Netframwork 4.7.2 is attached in this folder.
+
+2. Run setup.exe
+
+3.  Copy folder "txtSetting" into C:\Program Files (x86)\VietmapEnv\VietmapEnv Monitor
+
+4. Finish!
+
+* Note: Don't change anything in the folder "txtSetting"
