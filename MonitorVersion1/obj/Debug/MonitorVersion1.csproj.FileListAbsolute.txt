@@ -1,0 +1,61 @@
+D:\VIETMAPENV\CODER\All Monitor Version 1\new clone\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\bin\Debug\MonitorVersion1.exe.config
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\bin\Debug\MonitorVersion1.exe.manifest
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\bin\Debug\MonitorVersion1.application
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\bin\Debug\MonitorVersion1.exe
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\bin\Debug\MonitorVersion1.pdb
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.Alarm.resources
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.AlarmForm.resources
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.check4StationsDifferent.resources
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.CustomItems.customComboBox.resources
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.CustomItems.customTextBox.resources
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.CustomItems.customTextBox1.resources
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.FormMain.resources
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.Properties.Resources.resources
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.Stations.resources
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.exe.manifest
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.application
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.exe
+C:\Users\dell\Desktop\MonitorVersion1-master\MonitorVersion1\obj\Debug\MonitorVersion1.pdb
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\bin\Debug\MonitorVersion1.exe.config
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\bin\Debug\MonitorVersion1.exe.manifest
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\bin\Debug\MonitorVersion1.application
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\bin\Debug\MonitorVersion1.exe
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\bin\Debug\MonitorVersion1.pdb
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.Alarm.resources
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.AlarmForm.resources
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.CustomItems.customComboBox.resources
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.CustomItems.customTextBox.resources
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.CustomItems.customTextBox1.resources
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.FormMain.resources
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.Properties.Resources.resources
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.Stations.resources
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.csproj.GenerateResource.cache
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.csproj.CoreCompileInputs.cache
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.exe.manifest
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.application
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.exe
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.pdb
+D:\VIETMAPENV\CODER\App VietmapEnv\MonitorVersion1\obj\Debug\MonitorVersion1.csprojAssemblyReference.cache
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\bin\Debug\MonitorVersion1.exe.config
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\bin\Debug\MonitorVersion1.exe.manifest
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\bin\Debug\MonitorVersion1.application
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\bin\Debug\MonitorVersion1.exe
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\bin\Debug\MonitorVersion1.pdb
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.csprojAssemblyReference.cache
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.AlarmForm.resources
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.CustomItems.customComboBox.resources
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.CustomItems.customTextBox.resources
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.CustomItems.customTextBox1.resources
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.FormMain.resources
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.Properties.Resources.resources
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.Stations.resources
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.csproj.GenerateResource.cache
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.csproj.CoreCompileInputs.cache
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.exe.manifest
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.application
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.exe
+D:\VIETMAPENV\CODER\App VietmapEnv - Backup\MonitorVersion1\obj\Debug\MonitorVersion1.pdb

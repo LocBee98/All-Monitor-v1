@@ -1,0 +1,10 @@
+1. User email
+
+
+
+2. Enable
+False
+False
+False
+3. Freq
+
