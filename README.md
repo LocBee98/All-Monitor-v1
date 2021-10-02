@@ -11,4 +11,7 @@ File cài đặt setup.exe trong thư mục \setup\VietmapEnv App Setup
 Vì lý do bảo mật dữ liệu, ip & password của các ftp server đã ẩn.
 # Hình ảnh phần mềm
 /Pictures About App
-
+# Định hướng phát triển phần mền
+- Trỏ chuột vào một trạm bất kỳ (Mouse_Move Event), giá trị của các thông số
+trong trạm đó sẽ hiển thị cho người dùng xem.
+- Cách thức: sử dụng FTP truy cập file .txt, đọc nội dung file và hiển thị ra màn hình.
